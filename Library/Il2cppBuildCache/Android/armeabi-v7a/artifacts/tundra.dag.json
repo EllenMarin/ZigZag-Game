@@ -1,0 +1,131 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp D:/jogos/ZigZag/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"D:\\Unity Hub\\2020.3.21f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"D:\\jogos\\ZigZag\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"D:\\jogos\\ZigZag\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"D:/Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"D:/Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"D:/Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"D:/Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"D:/Unity Hub/2020.3.21f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed --generatedcppdir=D:/jogos/ZigZag/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput",
+      "Inputs": [
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "D:/jogos/ZigZag/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "D:/Unity Hub/2020.3.21f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "D:/Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/baselib.a",
+        "D:/Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/libunityruntime.a",
+        "\"D:/Unity Hub/2020.3.21f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "D:/jogos/ZigZag/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include"
+    },
+    {
+      "File": "../../../../../../Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include"
+    },
+    {
+      "File": "../../../../../../Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "Path": "../../../../../../Unity Hub/2020.3.21f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
